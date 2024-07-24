@@ -1,0 +1,10 @@
+absl_py==1.4.0
+dm_pix==0.4.1
+flax==0.7.0
+jax==0.4.14
+matplotlib==3.8.0
+numpy==1.25.2
+optax==0.2.3
+seaborn==0.13.2
+tensorflow==2.11.1
+tensorflow_datasets==4.6.0
